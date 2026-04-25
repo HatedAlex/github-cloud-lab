@@ -104,4 +104,4 @@ jobs:
           echo "Deploying image:"
           echo "ghcr.io/${{ github.repository }}/webapp:latest"
           echo "Target: staging cluster"
-          echo "Deployment complete!"
+          echo "Deployment complete!"git rebase --continue
